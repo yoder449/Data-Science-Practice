@@ -1,5 +1,5 @@
 # Data Science Practice Repository
-This area is a demonstration of my practical application of SQL, Python, and data visualization studies on data sets I find interesting.
+This area is a demonstration of my own practical application of SQL, Python, and data visualization studies on data sets I find interesting.
 
 ## Russo-Ukraine War 2022 Personnel Losses Analysis
 Conducted 8 June 2022
